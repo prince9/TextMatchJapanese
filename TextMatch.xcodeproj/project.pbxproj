@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		66111E7D1527696F00F49023 /* TextMatchReadMe.txt in Resources */ = {isa = PBXBuildFile; fileRef = 66111E7C1527696F00F49023 /* TextMatchReadMe.txt */; };
 		66D6DFD31526DCC8003200EB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 66D6DFD21526DCC8003200EB /* UIKit.framework */; };
 		66D6DFD51526DCC8003200EB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 66D6DFD41526DCC8003200EB /* Foundation.framework */; };
 		66D6DFD71526DCC8003200EB /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 66D6DFD61526DCC8003200EB /* CoreGraphics.framework */; };
@@ -15,22 +16,27 @@
 		66D6DFE31526DCC8003200EB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 66D6DFE21526DCC8003200EB /* AppDelegate.m */; };
 		66D6DFE61526DCC8003200EB /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 66D6DFE41526DCC8003200EB /* MainStoryboard.storyboard */; };
 		66D6DFE91526DCC8003200EB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 66D6DFE81526DCC8003200EB /* ViewController.m */; };
+		66D6DFF01526F20F003200EB /* fly1omin.png in Resources */ = {isa = PBXBuildFile; fileRef = 66D6DFEF1526F20F003200EB /* fly1omin.png */; };
+		66D6DFFC152702DC003200EB /* fly4mino.png in Resources */ = {isa = PBXBuildFile; fileRef = 66D6DFFB152702DC003200EB /* fly4mino.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		66111E7C1527696F00F49023 /* TextMatchReadMe.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = TextMatchReadMe.txt; path = ../../../../Desktop/TextMatchReadMe.txt; sourceTree = "<group>"; };
 		66D6DFCE1526DCC8003200EB /* TextMatch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TextMatch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		66D6DFD21526DCC8003200EB /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		66D6DFD41526DCC8003200EB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		66D6DFD61526DCC8003200EB /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		66D6DFDA1526DCC8003200EB /* TextMatch-Info.plist */ = {isa = PBXFileReference; path = "TextMatch-Info.plist"; sourceTree = "<group>"; };
+		66D6DFDA1526DCC8003200EB /* TextMatch-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TextMatch-Info.plist"; sourceTree = "<group>"; };
 		66D6DFDC1526DCC8003200EB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		66D6DFDE1526DCC8003200EB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		66D6DFE01526DCC8003200EB /* TextMatch-Prefix.pch */ = {isa = PBXFileReference; path = "TextMatch-Prefix.pch"; sourceTree = "<group>"; };
-		66D6DFE11526DCC8003200EB /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		66D6DFE01526DCC8003200EB /* TextMatch-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TextMatch-Prefix.pch"; sourceTree = "<group>"; };
+		66D6DFE11526DCC8003200EB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		66D6DFE21526DCC8003200EB /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		66D6DFE51526DCC8003200EB /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		66D6DFE71526DCC8003200EB /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		66D6DFE71526DCC8003200EB /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		66D6DFE81526DCC8003200EB /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		66D6DFEF1526F20F003200EB /* fly1omin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fly1omin.png; sourceTree = "<group>"; };
+		66D6DFFB152702DC003200EB /* fly4mino.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fly4mino.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +83,9 @@
 		66D6DFD81526DCC8003200EB /* TextMatch */ = {
 			isa = PBXGroup;
 			children = (
+				66111E7C1527696F00F49023 /* TextMatchReadMe.txt */,
+				66D6DFFB152702DC003200EB /* fly4mino.png */,
+				66D6DFEF1526F20F003200EB /* fly1omin.png */,
 				66D6DFE11526DCC8003200EB /* AppDelegate.h */,
 				66D6DFE21526DCC8003200EB /* AppDelegate.m */,
 				66D6DFE41526DCC8003200EB /* MainStoryboard.storyboard */,
@@ -150,6 +159,9 @@
 			files = (
 				66D6DFDD1526DCC8003200EB /* InfoPlist.strings in Resources */,
 				66D6DFE61526DCC8003200EB /* MainStoryboard.storyboard in Resources */,
+				66D6DFF01526F20F003200EB /* fly1omin.png in Resources */,
+				66D6DFFC152702DC003200EB /* fly4mino.png in Resources */,
+				66111E7D1527696F00F49023 /* TextMatchReadMe.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,6 +286,7 @@
 				66D6DFEE1526DCC8003200EB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
